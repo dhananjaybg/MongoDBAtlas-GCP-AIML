@@ -55,5 +55,6 @@ Protocols and ports:
 * Edit `settings.cfg` to have the Atlas connection string created above
 * Run `python3 runner.py` to start the application
 * Visit the URL of your server port 8088 and you should see a web page
+e.g. http://35.222.237.187:8088/  use the Google Instance ,external IP.
 
 ![](images/newss02.png)
